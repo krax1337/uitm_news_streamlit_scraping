@@ -1,0 +1,9 @@
+[server]
+port = 7777
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "pink"
