@@ -1,6 +1,3 @@
-[server]
-port = 7777
-
 [browser]
 gatherUsageStats = false
 
